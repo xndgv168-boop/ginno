@@ -1,6 +1,0 @@
-{
-  "name": "Ginno",
-  "description": "Ginno (吉诺) - E-Commerce Independent Station for Philippines featuring Regular Shopping, Group Deals (拼团), Live Auctions (拍卖), and Admin Operations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
